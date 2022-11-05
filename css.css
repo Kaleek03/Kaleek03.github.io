@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(-45deg, #374151, #2b2e2b, #3a4535, #0d0d0d);
+    background: linear-gradient(-45deg, #141516, #2b2e2b, #3a4535, #0d0d0d);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     height: 100vh;
@@ -17,7 +17,8 @@ body {
     }
   }
   
-  #.Name {
+  h1.Name {
     text-align: center;
     text-decoration: wavy;
+   text
   }
