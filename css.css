@@ -18,7 +18,7 @@ body {
   }
   
   img.forest {
-  width:200px;
+  width:max-content
   length:50px;
   }
   
