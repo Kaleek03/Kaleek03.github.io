@@ -17,6 +17,11 @@ body {
     }
   }
   
+  img.forest {
+    background-position: center;
+    background-size: cover;
+  }
+  
   h1.Name {
     text-align: center;
     text-decoration: wavy;
