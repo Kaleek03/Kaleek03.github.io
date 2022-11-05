@@ -18,8 +18,7 @@ body {
   }
   
   img.forest {
-    background-position: center;
-    background-size: cover;
+  text-align: center;
   }
   
   h1.Name {
