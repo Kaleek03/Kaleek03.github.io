@@ -18,8 +18,8 @@ body {
   }
   
   #forest {
- background-position: center;
- background-size: 100% 20%;
+ max-width: 100%;
+  height: auto;
   }
   
   h1.Name {
